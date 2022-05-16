@@ -1,0 +1,8 @@
+.searchIconButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #909090;
+  width: 70px;
+  border: none;
+}

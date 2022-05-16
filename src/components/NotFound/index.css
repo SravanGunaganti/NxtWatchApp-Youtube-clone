@@ -1,0 +1,8 @@
+.NotFoundVideosImage {
+  width: 200px;
+}
+@media screen and (min-width: 768px) {
+  .NotFoundVideosImage {
+    width: 450px;
+  }
+}
